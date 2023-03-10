@@ -17,7 +17,12 @@ N/A
 
 ## Usage
 
-The original website was modified in order to be accessible to all people. 
+The original website was modified in order to be accessible to all people. You can access it [clicking here](https://1alyciaoliveira.github.io/Horiseon-Marketing-Agency/)
+
+![image](https://user-images.githubusercontent.com/108914238/224193790-1df0eaed-9193-4073-a36e-7339d1fb66c3.png)
+![image](https://user-images.githubusercontent.com/108914238/224193870-892e7f95-9890-4f59-bde6-7cfff89b66e6.png)
+![image](https://user-images.githubusercontent.com/108914238/224193969-10a316d1-916f-4477-858f-de542f130490.png)
+
 
 ## License
 
